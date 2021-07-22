@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.e55e6498.chunk.css",
+    "main.js": "/shop/static/js/main.6ce6ee90.chunk.js",
+    "main.js.map": "/shop/static/js/main.6ce6ee90.chunk.js.map",
+    "runtime-main.js": "/shop/static/js/runtime-main.63cc8822.js",
+    "runtime-main.js.map": "/shop/static/js/runtime-main.63cc8822.js.map",
+    "static/js/2.fd6ab73e.chunk.js": "/shop/static/js/2.fd6ab73e.chunk.js",
+    "static/js/2.fd6ab73e.chunk.js.map": "/shop/static/js/2.fd6ab73e.chunk.js.map",
+    "static/js/3.41efdfae.chunk.js": "/shop/static/js/3.41efdfae.chunk.js",
+    "static/js/3.41efdfae.chunk.js.map": "/shop/static/js/3.41efdfae.chunk.js.map",
+    "index.html": "/shop/index.html",
+    "static/css/main.e55e6498.chunk.css.map": "/shop/static/css/main.e55e6498.chunk.css.map",
+    "static/js/2.fd6ab73e.chunk.js.LICENSE.txt": "/shop/static/js/2.fd6ab73e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shop/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/shop/static/media/maintoy.e9ff08ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63cc8822.js",
+    "static/js/2.fd6ab73e.chunk.js",
+    "static/css/main.e55e6498.chunk.css",
+    "static/js/main.6ce6ee90.chunk.js"
+  ]
+}
